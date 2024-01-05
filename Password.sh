@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Get input string from the user
+# Get input Service from the user
 read -p "Enter The Service: " input_string
 
 # Generate a random password in 8 characters
